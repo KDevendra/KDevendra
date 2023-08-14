@@ -1,4 +1,4 @@
-[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)](https://github.com/KDevendra)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)](https://github.com/KDevendra)
 
 <h1 align="center">Hi 🙏, I'm Devendra Verma</h1>
 
