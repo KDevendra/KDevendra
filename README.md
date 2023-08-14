@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif)](https://github.com/KDevendra)
+[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)](https://github.com/KDevendra)
 
 <h1 align="center">Hi 🙏, I'm Devendra Verma</h1>
 
