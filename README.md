@@ -30,7 +30,7 @@
 
  
 
-⚡ Fun fact **I am Not Funny hahahah**
+⚡ Fun fact **I am Not Funny hahahaha 😂🤣😊**
 
  
 
