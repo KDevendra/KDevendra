@@ -22,7 +22,7 @@
 
  
 
-- 💬 Ask me about **Backend , PHP , MYSQL**
+- 💬 Ask me about **Backend, PHP, MYSQL**
 
  
 
