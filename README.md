@@ -6,7 +6,7 @@
 </p>
 🌱 I’m currently expanding my knowledge in backend technologies.
 💬 Ask me about backend development, PHP, and MySQL.
-📫 You can reach me at kdevendra7999@gmail.com
+📫 You can reach me at <a href="mailto:kdevendra7999@gmail.com">kdevendra7999@gmail.com</a>
 ⚡ Fun fact: I'm not the funniest, but I love making others laugh! 😂🤣😊
 <h3 align="left">Connect with me:</h3>
 <p align="left">
