@@ -4,10 +4,11 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kdevendra&label=Profile%20views&color=0e75b6&style=flat" alt="Devendra Verma" />
 </p>
-🌱 I’m currently expanding my knowledge in backend technologies.
+<p>🌱 I’m currently expanding my knowledge in backend technologies.
 💬 Ask me about backend development, PHP, and MySQL.
 📫 You can reach me at <a href="mailto:kdevendra7999@gmail.com">kdevendra7999@gmail.com</a>
 ⚡ Fun fact: I'm not the funniest, but I love making others laugh! 😂🤣😊
+  </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/kdevendra7999" target="blank">
@@ -47,4 +48,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
   </a>
 </p>
-As a proficient web developer with expertise in PHP and Go, I aim to leverage my skills in RESTful APIs, MySQL, MongoDB, jQuery, and Bootstrap to create dynamic and user-friendly web applications. My experience with software packages such as Git/GitHub, VS Code, and deployment tools like WHM, cPanel, and Hostinger allows me to efficiently build, test, and deploy robust web solutions. I am dedicated to continuously expanding my knowledge and skill set to deliver high-quality projects and innovative web experiences.
+<p>As a proficient web developer with expertise in PHP and Go, I aim to leverage my skills in RESTful APIs, MySQL, MongoDB, jQuery, and Bootstrap to create dynamic and user-friendly web applications. My experience with software packages such as Git/GitHub, VS Code, and deployment tools like WHM, cPanel, and Hostinger allows me to efficiently build, test, and deploy robust web solutions. I am dedicated to continuously expanding my knowledge and skill set to deliver high-quality projects and innovative web experiences.</p>
